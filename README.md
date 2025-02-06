@@ -17,7 +17,7 @@ Conceitos abordados no curso de **Testes de API Rest**, de [Julio de Lima no You
 * Testes funcionais.
 * Testes de Performance.
 * Teste de Compatibilidade.
-* Mountebank.
+* Wiremock.
 * JSONSchema.
 * Leitura de logs.
 
