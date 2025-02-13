@@ -35,7 +35,7 @@ Pré-requisitos (programas que devem estar instalados):
 
 ### Comando para rodar a API
 
-Aapós configurar a API em seu ambiente, execute o comando abaixo:
+Após configurar a API em seu ambiente, execute o comando abaixo:
 
       mvn spring-boot:run
 
@@ -43,4 +43,5 @@ A API será iniciada e estará disponível localmente na porta indicada no termi
 
 --- 
 
--> Outros detalhes sobre procedimentos técnicos se encontram na pasta `docs`.
+### Outros procedimentos
+Outros detalhes técnicos, bem como uma coleção exportada do Postman, se encontram na pasta `docs` deste repositório.
